@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\css\\adipoli.css",
+      "PackagePath": "staticwebassets\\css\\adipoli.css"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\css\\camera.css",
+      "PackagePath": "staticwebassets\\css\\camera.css"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\css\\grid.css",
+      "PackagePath": "staticwebassets\\css\\grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\css\\ie.css",
+      "PackagePath": "staticwebassets\\css\\ie.css"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\css\\skeleton.css",
+      "PackagePath": "staticwebassets\\css\\skeleton.css"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\css\\superfish.css",
+      "PackagePath": "staticwebassets\\css\\superfish.css"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\css\\touchTouch.css",
+      "PackagePath": "staticwebassets\\css\\touchTouch.css"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\images\\arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\arrowws.png",
+      "PackagePath": "staticwebassets\\images\\arrowws.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\big1.jpg",
+      "PackagePath": "staticwebassets\\images\\big1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\big2.jpg",
+      "PackagePath": "staticwebassets\\images\\big2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\big3.jpg",
+      "PackagePath": "staticwebassets\\images\\big3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\big4.jpg",
+      "PackagePath": "staticwebassets\\images\\big4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\big5.jpg",
+      "PackagePath": "staticwebassets\\images\\big5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\big6.jpg",
+      "PackagePath": "staticwebassets\\images\\big6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\big7.jpg",
+      "PackagePath": "staticwebassets\\images\\big7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\big8.jpg",
+      "PackagePath": "staticwebassets\\images\\big8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\big9.jpg",
+      "PackagePath": "staticwebassets\\images\\big9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\camera-loader.gif",
+      "PackagePath": "staticwebassets\\images\\camera-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\capt_bg.png",
+      "PackagePath": "staticwebassets\\images\\capt_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\icon1.png",
+      "PackagePath": "staticwebassets\\images\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\icon2.png",
+      "PackagePath": "staticwebassets\\images\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\icon3.png",
+      "PackagePath": "staticwebassets\\images\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\magnifier.png",
+      "PackagePath": "staticwebassets\\images\\magnifier.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\menu_bg.png",
+      "PackagePath": "staticwebassets\\images\\menu_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page1_img1.jpg",
+      "PackagePath": "staticwebassets\\images\\page1_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page1_img2.jpg",
+      "PackagePath": "staticwebassets\\images\\page1_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page1_img3.jpg",
+      "PackagePath": "staticwebassets\\images\\page1_img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page2_img1.jpg",
+      "PackagePath": "staticwebassets\\images\\page2_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page3_img1.jpg",
+      "PackagePath": "staticwebassets\\images\\page3_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page3_img2.jpg",
+      "PackagePath": "staticwebassets\\images\\page3_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page3_img3.jpg",
+      "PackagePath": "staticwebassets\\images\\page3_img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page3_img4.jpg",
+      "PackagePath": "staticwebassets\\images\\page3_img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page3_img5.jpg",
+      "PackagePath": "staticwebassets\\images\\page3_img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page3_img6.jpg",
+      "PackagePath": "staticwebassets\\images\\page3_img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page3_img7.jpg",
+      "PackagePath": "staticwebassets\\images\\page3_img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page3_img8.jpg",
+      "PackagePath": "staticwebassets\\images\\page3_img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page3_img9.jpg",
+      "PackagePath": "staticwebassets\\images\\page3_img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page4_img1.jpg",
+      "PackagePath": "staticwebassets\\images\\page4_img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page4_img2.jpg",
+      "PackagePath": "staticwebassets\\images\\page4_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page4_img3.jpg",
+      "PackagePath": "staticwebassets\\images\\page4_img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page4_img4.jpg",
+      "PackagePath": "staticwebassets\\images\\page4_img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page4_img5.jpg",
+      "PackagePath": "staticwebassets\\images\\page4_img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page4_img6.jpg",
+      "PackagePath": "staticwebassets\\images\\page4_img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page4_img7.jpg",
+      "PackagePath": "staticwebassets\\images\\page4_img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page4_img8.jpg",
+      "PackagePath": "staticwebassets\\images\\page4_img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\page4_img9.jpg",
+      "PackagePath": "staticwebassets\\images\\page4_img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\preloader.gif",
+      "PackagePath": "staticwebassets\\images\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\prevnext.png",
+      "PackagePath": "staticwebassets\\images\\prevnext.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\quotes.png",
+      "PackagePath": "staticwebassets\\images\\quotes.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\slide.jpg",
+      "PackagePath": "staticwebassets\\images\\slide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\slide2.jpg",
+      "PackagePath": "staticwebassets\\images\\slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\spacer.png",
+      "PackagePath": "staticwebassets\\images\\spacer.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\tax_bg.png",
+      "PackagePath": "staticwebassets\\images\\tax_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\images\\totop.png",
+      "PackagePath": "staticwebassets\\images\\totop.png"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\PIE.htc",
+      "PackagePath": "staticwebassets\\js\\PIE.htc"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\PIE.php",
+      "PackagePath": "staticwebassets\\js\\PIE.php"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\TMForm.js",
+      "PackagePath": "staticwebassets\\js\\TMForm.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\camera.js",
+      "PackagePath": "staticwebassets\\js\\camera.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\jquery-migrate-1.2.1.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-1.2.1.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\jquery.adipoli.js",
+      "PackagePath": "staticwebassets\\js\\jquery.adipoli.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\jquery.equalheights.js",
+      "PackagePath": "staticwebassets\\js\\jquery.equalheights.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\jquery.mobile.customized.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mobile.customized.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\jquery.mobilemenu.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mobilemenu.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\jquery.ui.totop.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ui.totop.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\superfish.js",
+      "PackagePath": "staticwebassets\\js\\superfish.js"
+    },
+    {
+      "Id": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\wwwroot\\js\\touchTouch.jquery.js",
+      "PackagePath": "staticwebassets\\js\\touchTouch.jquery.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TaksiPro.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TaksiPro.props",
+      "PackagePath": "build\\TaksiPro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TaksiPro.props",
+      "PackagePath": "buildMultiTargeting\\TaksiPro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TaksiPro.props",
+      "PackagePath": "buildTransitive\\TaksiPro.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

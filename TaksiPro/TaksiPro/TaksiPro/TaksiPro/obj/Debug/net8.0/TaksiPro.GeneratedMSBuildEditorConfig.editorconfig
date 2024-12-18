@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TaksiPro
+build_property.RootNamespace = TaksiPro
+build_property.ProjectDir = C:\Users\sanja\OneDrive\Desktop\TaksiPro\TaksiPro\TaksiPro\TaksiPro\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sanja\OneDrive\Desktop\TaksiPro\TaksiPro\TaksiPro\TaksiPro
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Admin/AddBuyurtma.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQnV5dXJ0bWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Admin/AddTarif.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkVGFyaWYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Admin/AdminMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5NYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Admin/Buyurtma.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQnV5dXJ0bWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Admin/Tariff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVGFyaWZmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Admin/Xabar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cWGFiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Home/Biznes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCaXpuZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Home/Cars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Home/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Home/Komfort.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLb21mb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Home/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Home/Start.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Home/SubmitContactForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJtaXRDb250YWN0Rm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanja/OneDrive/Desktop/TaksiPro/TaksiPro/TaksiPro/TaksiPro/Views/Home/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,117 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using TaksiPro.Models
+@model List<Contact>
+
+@{
+    ViewData["Title"] = "Xabarlar";
+}
+
+<!-- Bootstrap 5 Icons and Styles -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+<!-- Custom CSS -->
+<style>
+    /* Page Container */
+    .container {
+        background: #ffffff;
+        border-radius: 12px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        padding: 30px;
+        margin-top: 40px;
+    }
+
+    /* Header Title */
+    h2 {
+        font-weight: bold;
+        color: #343a40;
+        margin-bottom: 30px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+    /* Table Styles */
+    .table {
+        border-collapse: separate;
+        border-spacing: 0 10px; /* Space between rows */
+    }
+
+    .table thead {
+        background-color: #007bff;
+        color: white;
+    }
+
+    .table th {
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .table tbody tr {
+        background: #f8f9fa;
+        transition: all 0.3s ease;
+    }
+
+    .table tbody tr:hover {
+        background-color: #e2e6ea;
+        transform: scale(1.01);
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    /* No Records Found Message */
+    .no-data {
+        font-size: 1.1rem;
+        font-style: italic;
+        color: #6c757d;
+    }
+
+
+    media (max-width: 768px) {
+        .table th, .table td {
+            font-size: 0.9rem;
+            padding: 8px;
+        }
+    } 
+</style>
+
+<!-- Page Content -->
+<div class="container">
+    <!-- Page Title -->
+    <h2 class="text-center">
+        <i class="bi bi-envelope"></i> @ViewData["Title"]
+    </h2>
+
+    <!-- Table or No Data -->
+    @if (Model != null && Model.Any())
+    {
+        <div class="table-responsive">
+            <table class="table table-hover align-middle text-center">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Ism</th>
+                        <th>Email</th>
+                        <th>Telefon Raqami</th>
+                        <th>Xabar</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var xabar in Model)
+                    {
+                        <tr>
+                            <td>@xabar.Id</td>
+                            <td>@xabar.Ism</td>
+                            <td>@xabar.Email</td>
+                            <td>@xabar.PhoneNumber</td>
+                            <td>@xabar.Message</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <p class="text-center no-data">Hech qanday xabar topilmadi.</p>
+    }
+</div>
+<a asp-controller="Admin" asp-action="AdminMain">Orqaga</a>

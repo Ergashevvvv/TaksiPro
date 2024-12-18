@@ -1,0 +1,176 @@
+﻿@using TaksiPro.ModelViews
+@model ContactViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Contacts</title>
+	<meta charset="utf-8">
+	<meta name="format-detection" content="telephone=no" />
+	<link rel="icon" href="~/images/favicon.ico">
+	<link rel="shortcut icon" href="~/images/favicon.ico" />
+	<link rel="stylesheet" href="~/css/form.css">
+	<link rel="stylesheet" href="~/css/style.css">
+	<script src="~/js/jquery.js"></script>
+	<script src="~/js/jquery-migrate-1.2.1.js"></script>
+	<script src="~/js/script.js"></script>
+	<script src="~/js/superfish.js"></script>
+	<script src="~/js/jquery.ui.totop.js"></script>
+	<script src="~/js/jquery.equalheights.js"></script>
+	<script src="~/js/jquery.mobilemenu.js"></script>
+	<script src="~/js/jquery.easing.1.3.js"></script>
+	<script src="~/js/TMForm.js"></script>
+	<script>
+		$(document).ready(function () {
+			$().UItoTop({ easingType: 'easeOutQuart' });
+		});
+	</script>
+	<!--[if lt IE 8]>
+		<div style=' clear: both; text-align:center; position: relative;'>
+			<a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+				<img src="http://storage.ie6countdown.com/assets/100/~/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+			</a>
+		</div>
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="~/js/html5shiv.js"></script>
+		<link rel="stylesheet" media="screen" href="~/css/ie.css">
+	<![endif]-->
+</head>
+<body class="" id="top">
+	<div class="main">
+		<!--==============================header=================================-->
+		<header>
+			<div class="menu_block ">
+				<div class="container_12">
+					<div class="grid_12">
+						<nav class="horizontal-nav full-width horizontalNav-notprocessed">
+							<ul class="sf-menu">
+								<li><a asp-controller="Home" asp-action="Index">Bosh Sahifa</a></li>
+								<li><a asp-controller="Home" asp-action="About">Biz Haqimizda</a></li>
+								<li><a asp-controller="Home" asp-action="Cars">Moshinalar</a></li>
+								<li><a asp-controller="Home" asp-action="Services">Ma'lumotlar</a></li>
+								<li><a asp-controller="Home" asp-action="Contacts">Xizmatlar</a></li>
+							</ul>
+						</nav>
+						<div class="clear"></div>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<div class="container_12">
+				<div class="grid_12">
+					<h1>
+						<a href="index.html">
+							<img src="~/images/logo.png" alt="Your Happy Family">
+						</a>
+					</h1>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</header>
+		<!--==============================Content=================================-->
+		<div class="content">
+			<div class="ic">More Website Templates  TemplateMonster.com - April 07, 2014!</div>
+			<div class="container_12">
+				<div class="grid_12">
+					<h3>Bizni oson toping</h3>
+					<div class="map">
+						<figure>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d24214.807650104907!2d69.2401!3d41.2995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1395650655094" style="border:0"></iframe>
+						</figure>
+					</div>
+				</div>
+				<div class="grid_5">
+					<h3>Bog'lanish ma'lumotlari</h3>
+					<div class="map">
+						<div class="text1 color2">Bizning xizmatlarimiz sizning biznesingiz uchun mukammal yechimlarni taklif etadi.</div>
+						<p>Eslatib o'tamiz, bizda 60 kungacha bepul primium musiqalar ham mavjud, musiqalarni tinglash uchun siz <span class="color1"><a href="https://music.yandex.ru/" rel="nofollow">Musiqalar</a></span> saytiga sayohat qiling.</p>
+						<p>Agar sizgaccesskey yanada ko'proq xizmatlarimiz kerak bo'lsa, <span class="color1"><a href="https://plus.yandex.uz/" rel="nofollow">Yandex Go plus</a></span> xizmatimizdan ham foydalanishingiz mumkin.</p>
+						<address>
+							<dl>
+								<dt>
+									"Yandex Go.Taxi" MCHJ <br>
+									Toshkent shahar,<br>
+									Yunusubod tumani,
+									Yunusobod dahasi 14-mavze,2-uy.
+								</dt>
+								<dd><span>Qo'ng'iroq uchun:</span> +998 88 870 14 14</dd>
+								<dd><span>FAX:</span> +998 90 999 90 56</dd>
+								<dd>E-mail: <a href="#" class="color1">sanjarergashev888@gmail.com</a></dd>
+							</dl>
+						</address>
+					</div>
+				</div>
+				<div class="grid_6 prefix_1">
+					<h3>Biz siz bilan bog'lanish uchun</h3>
+			<a asp-action="SubmitContactForm" class="btn btn-primary btn-lg">XabarYuborish</a>
+					<h3>Taksi buyurtma qilish uchun</h3>
+					<a asp-controller="Admin" asp-action="AddBuyurtma" class="btn btn-primary btn-lg">Buyurtma</a>
+
+				
+				@* <form asp-controller="Home" asp-action="SubmitContactForm" method="post">
+				    <div class="success_wrapper">
+				        <div class="success-message">Contact form submitted</div>
+				    </div>
+				
+				    <div class="form-group">
+				        <label asp-for="Ism" class="control-label">Ism:</label>
+				        <input asp-for="Ism" class="form-control" placeholder="Ism" />
+				        <span class="text-danger" asp-validation-for="Ism"></span>
+				    </div>
+				
+				    <div class="form-group">
+				        <label asp-for="Email" class="control-label">E-mail:</label>
+				        <input asp-for="Email" class="form-control" placeholder="E-mail" />
+				        <span class="text-danger" asp-validation-for="Email"></span>
+				    </div>
+				
+				    <div class="form-group">
+				        <label asp-for="PhoneNumber" class="control-label">Telefon:</label>
+				        <input asp-for="PhoneNumber" class="form-control" placeholder="Telefon" />
+				        <span class="text-danger" asp-validation-for="PhoneNumber"></span>
+				    </div>
+				
+				    <div class="form-group">
+				        <label asp-for="Message" class="control-label">Xabar:</label>
+				        <textarea asp-for="Message" class="form-control" placeholder="Xabar"></textarea>
+				        <span class="text-danger" asp-validation-for="Message"></span>
+				    </div>
+				
+				    <div>
+				        <div class="clear"></div>
+				        <div class="btns">
+				            <button type="submit" class="btn btn-primary">Jo'natish</button>
+				            <button type="reset" class="btn btn-secondary">O'chirish</button>
+				        </div>
+				    </div>
+				</form>
+ *@
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!--==============================footer=================================-->
+	<footer>
+		<div class="container_12">
+			<div class="grid_12">
+				<div class="f_phone"><span>Bizga qo'ng'iroq qiling:</span> +998 88 870 14 14</div>
+				<div class="socials">
+					<a href="#" class="fa fa-twitter"></a>
+					<a href="#" class="fa fa-facebook"></a>
+					<a href="#" class="fa fa-google-plus"></a>
+				</div>
+				<div class="copy">
+					<div class="st1">
+						<div class="brand">Yandex<span class="color1">GO</span></div>
+						&copy; 2024	| <a href="#">Privacy Policy</a>
+					</div> Website designed by <a href="http://www.templatemonster.com/" rel="nofollow">TemplateMonster.com</a>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</footer>
+</body>	
+</html>

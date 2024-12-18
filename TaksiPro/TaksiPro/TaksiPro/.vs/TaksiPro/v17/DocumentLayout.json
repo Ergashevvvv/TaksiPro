@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\models\\moshina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\models\\moshina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\home\\komfort.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\home\\komfort.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\home\\biznes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\home\\biznes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\admin\\adminmain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\admin\\adminmain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\admin\\xabar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\admin\\xabar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\home\\cars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\home\\cars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\admin\\addtarif.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\admin\\addtarif.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\admin\\addbuyurtma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\admin\\addbuyurtma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\views\\admin\\tariff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\views\\admin\\tariff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|c:\\users\\sanja\\onedrive\\desktop\\taksipro\\taksipro\\taksipro\\taksipro\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6F1A06-14E9-4D2F-960E-485F1E565570}|TaksiPro\\TaksiPro.csproj|solutionrelative:taksipro\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Program.cs",
+              "RelativeDocumentMoniker": "TaksiPro\\Program.cs",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Program.cs",
+              "RelativeToolTip": "TaksiPro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:33:09.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Success.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Home\\Success.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Success.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Home\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T13:32:16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Home\\Services.cshtml",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T13:22:08.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAADcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T12:03:39.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminMain.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Admin\\AdminMain.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Admin\\AdminMain.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Admin\\AdminMain.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Admin\\AdminMain.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:35:00.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddBuyurtma.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Admin\\AddBuyurtma.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Admin\\AddBuyurtma.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Admin\\AddBuyurtma.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Admin\\AddBuyurtma.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:34:58.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tariff.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Admin\\Tariff.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Admin\\Tariff.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Admin\\Tariff.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Admin\\Tariff.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:34:56.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaksiPro\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "TaksiPro\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:31:47.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Moshina.cs",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Models\\Moshina.cs",
+              "RelativeDocumentMoniker": "TaksiPro\\Models\\Moshina.cs",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Models\\Moshina.cs",
+              "RelativeToolTip": "TaksiPro\\Models\\Moshina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:30:46.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Biznes.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Biznes.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Home\\Biznes.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Biznes.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Home\\Biznes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:13:05.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Komfort.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Komfort.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Home\\Komfort.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Komfort.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Home\\Komfort.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwE0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:08:57.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TaksiPro\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TaksiPro\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:08:29.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Xabar.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Admin\\Xabar.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Admin\\Xabar.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Admin\\Xabar.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Admin\\Xabar.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T10:07:10.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddTarif.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Admin\\AddTarif.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Admin\\AddTarif.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Admin\\AddTarif.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Admin\\AddTarif.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T10:04:34.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAALsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:31:02.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Home\\Contacts.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Contacts.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Home\\Contacts.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:30:56.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cars.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Cars.cshtml",
+              "RelativeDocumentMoniker": "TaksiPro\\Views\\Home\\Cars.cshtml",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Desktop\\TaksiPro\\TaksiPro\\TaksiPro\\TaksiPro\\Views\\Home\\Cars.cshtml",
+              "RelativeToolTip": "TaksiPro\\Views\\Home\\Cars.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:30:44.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
